@@ -1,12 +1,15 @@
----
-description: Hier vind je het archief van alle MMT vakken
----
-
 # Overzicht
 
 ![](.gitbook/assets/mamdt-building.png)
 
-## Multi Media Technology 1
 
-{% embed data="{\"url\":\"https://mamdt.gitbook.io/1-1-mmt1/\",\"type\":\"link\",\"title\":\"Initial page - 1.1 - MMT1\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LKVQKsc94CxWX4KZvIi%2Favatar.png?generation=1534921106472139&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-LKVQKsc94CxWX4KZvIi.png\",\"aspectRatio\":0}}" %}
+
+| Blok | Naam | Link |
+| :---: | :--- | :--- |
+| 1.1 | MMT1 | [https://mamdt.gitbook.io/1-1-mmt1/](https://mamdt.gitbook.io/1-1-mmt1/) |
+| 1.1 | VisDes1 | [https://mamdt.gitbook.io/1-1-visdes1/](https://mamdt.gitbook.io/1-1-visdes1/) |
+| 1.4 | MMT4 | [https://mamdt.gitbook.io/1-4-mmt4/](https://mamdt.gitbook.io/1-4-mmt4/) |
+| 2.3 | MMT keuze | [https://mamdt.gitbook.io/2-3-mmt-keuze/](https://mamdt.gitbook.io/2-3-mmt-keuze/) |
+
+
 
