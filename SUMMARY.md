@@ -4,6 +4,6 @@
 
 ## Coördinatie
 
-* [Hoe gebruik ik Gitbook?](blokcooerdinatie/hoe-gebruik-ik-gitbook.md)
-* [Hoe gebruik ik Slack?](blokcooerdinatie/hoe-gebruik-ik-slack.md)
+* [Hoe gebruik ik Gitbook?](coordinatie/hoe-gebruik-ik-gitbook.md)
+* [Hoe gebruik ik Slack?](coordinatie/hoe-gebruik-ik-slack.md)
 
