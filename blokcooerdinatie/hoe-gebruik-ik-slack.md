@@ -72,3 +72,7 @@ Slack, en dus je workspaces, zijn bereikbaar via allerlei media. Je kunt Slack b
 
 Zoek je nog meer info over het gebruik Slack? Alle info rondom Slack is te vinden het [Slack's Help Center](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-)
 
+{% hint style="info" %}
+Slack en Gitbook werken samen. Wil je in Slack wat zoeken of verwijzen naar een onderdeel in deze Gitbook? Typ dan `/gitbook [search query]` en doorzoek het document.
+{% endhint %}
+
