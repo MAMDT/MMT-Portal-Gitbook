@@ -20,7 +20,7 @@
 | Blok | Naam | Link |
 | :---: | :--- | :--- |
 | 1.1 | VisDes1 | [https://mamdt.gitbook.io/1-1-visdes1/](https://mamdt.gitbook.io/1-1-visdes1/) |
-| 1.2 | VisDes2 |  |
+| 1.2 | VisDes2 | [https://mamdt.gitbook.io/1-2-visdes2/](https://mamdt.gitbook.io/1-2-visdes2/) |
 
 ## VisCom
 
