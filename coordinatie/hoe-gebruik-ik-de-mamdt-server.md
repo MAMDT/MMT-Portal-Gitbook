@@ -10,7 +10,7 @@ In dit artikel leer je een verbinding te leggen tussen jouw lokale bestanden en 
 
 Om verbinding te kunnen maken dien je over de ftp-gegevens te beschikken die je ontvangen hebt per mail \(afzender is reselzuyd\).
 
-Bij dit artikel hoort ook een [tutorial video](https://vimeo.com/287886848/a48a06ba1b).
+{% embed url="https://vimeo.com/287886848/a48a06ba1b" %}
 
 ### Aan de slag <a id="aan-de-slag"></a>
 
