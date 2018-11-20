@@ -24,8 +24,8 @@ Je kunt op allerlei manieren verbindingen maken met een server. Met reguliere we
 
 Het kan zijn dat er additionele informatie nodig is voor het tot stand komen van de verbinding. Soms dien je aan te geven dat er een specifieke _poort_ of _encryptie_ moet worden gebruikt. Dit wordt meestal bij het ontvangen van de ftp-gegevens aangegeven. Om verbinding te kunnen maken via ftp gebruiken we een _ftp-client_. Software die de verbinding tot stand brengt en de bestanden weergeeft.
 
-* **Download FileZilla.**
-* In dit voorbeeld maken we een ftp-verbinding met de server van MAMDT. **Pak de ftp-gegevens erbij die je hebt ontvangen in je mail.**
+* \*\*\*\*[**Download FileZilla**](https://filezilla-project.org/)\*\*\*\*
+* In dit voorbeeld maken we een ftp-verbinding met de server van MAMDT. **Pak de ftp-gegevens erbij die je hebt ontvangen in je mail**
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LBKz5kbVKsfWEBCyX1y%2F-LC8x5e2cahapETxtrWW%2F-LC96A0heyslS_naHy4d%2FScreen%20Shot%202018-05-10%20at%2014.52.38.png?alt=media&token=5e768079-0649-493e-9684-0a3df570fca3)
 
