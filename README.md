@@ -1,7 +1,5 @@
 # Overzicht
 
-![](.gitbook/assets/mamdt-building.png)
-
 ## CMD
 
 ### Multimedia Technology
