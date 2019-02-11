@@ -24,7 +24,6 @@
 
 | Blok | Naam | Link |
 | :---: | :--- | :--- |
-| 2.1 | ID1 grafisch | [https://mamdt.gitbook.io/2-1-id1-gra](https://mamdt.gitbook.io/2-1-id1-gra) |
-| 2.2 | ID2 grafisch |  |
 | 2.2 | ID1 illustratief | [https://mamdt.gitbook.io/2-2-id1-ill/](https://mamdt.gitbook.io/2-2-id1-ill/) |
+| 2.3 | ID2 illustratief | [https://mamdt.gitbook.io/2-3-id2-illu/](https://mamdt.gitbook.io/2-3-id2-illu/) |
 
