@@ -27,3 +27,12 @@
 | 2.2 | ID1 illustratief | [https://mamdt.gitbook.io/2-2-id1-ill/](https://mamdt.gitbook.io/2-2-id1-ill/) |
 | 2.3 | ID2 illustratief | [https://mamdt.gitbook.io/2-3-id2-illu/](https://mamdt.gitbook.io/2-3-id2-illu/) |
 
+## Minoren
+
+
+
+| Blok | Naam | Link |
+| :---: | :--- | :--- |
+| 3.3 | Datavisualisatie | [https://mamdt.gitbook.io/3-3-dataviz/](https://mamdt.gitbook.io/3-3-dataviz/) |
+|  |  |  |
+
