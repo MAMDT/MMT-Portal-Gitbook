@@ -26,6 +26,7 @@
 | :---: | :--- | :--- |
 | 2.2 | ID1 illustratief | [https://mamdt.gitbook.io/2-2-id1-ill/](https://mamdt.gitbook.io/2-2-id1-ill/) |
 | 2.3 | ID2 illustratief | [https://mamdt.gitbook.io/2-3-id2-illu/](https://mamdt.gitbook.io/2-3-id2-illu/) |
+| 2.3 | ID3 Grafisch | [https://mamdt.gitbook.io/2-3-id3-gra/](https://mamdt.gitbook.io/2-3-id3-gra/) |
 
 ## Minoren
 
