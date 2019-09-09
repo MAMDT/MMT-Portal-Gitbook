@@ -24,9 +24,9 @@
 
 | Project | Naam | Link |
 | :---: | :--- | :--- |
-| 3.1 | ID | [https://mamdt.gitbook.io/](https://mamdt.gitbook.io/2-2-id1-ill/) |
+| 3.1 | ID | [https://mamdt.gitbook.io/3-1-project-id/](https://mamdt.gitbook.io/3-1-project-id/) |
 | 4.1 | ID |  |
-| 5.1 | ID |  |
+| 5.1 | ID | [https://mamdt.gitbook.io/5-1-project-id/](https://mamdt.gitbook.io/5-1-project-id/) |
 
 ## Minoren
 
