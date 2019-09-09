@@ -22,11 +22,11 @@
 
 ## VisCom
 
-| Blok | Naam | Link |
+| Project | Naam | Link |
 | :---: | :--- | :--- |
-| 2.2 | ID1 illustratief | [https://mamdt.gitbook.io/2-2-id1-ill/](https://mamdt.gitbook.io/2-2-id1-ill/) |
-| 2.3 | ID2 illustratief | [https://mamdt.gitbook.io/2-3-id2-illu/](https://mamdt.gitbook.io/2-3-id2-illu/) |
-| 2.3 | ID3 Grafisch | [https://mamdt.gitbook.io/2-3-id3-gra/](https://mamdt.gitbook.io/2-3-id3-gra/) |
+| 3.1 | ID | [https://mamdt.gitbook.io/](https://mamdt.gitbook.io/2-2-id1-ill/) |
+| 4.1 | ID |  |
+| 5.1 | ID |  |
 
 ## Minoren
 
