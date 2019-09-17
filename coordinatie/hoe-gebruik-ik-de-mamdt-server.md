@@ -12,6 +12,10 @@ Om verbinding te kunnen maken dien je over de ftp-gegevens te beschikken die je 
 
 {% embed url="https://vimeo.com/287886848/a48a06ba1b" %}
 
+{% hint style="warning" %}
+Bij het installeren van FileZilla vraagt de _installer_ additieve software te mogen installeren. FileZilla noemt dit ['bundled' software](https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/). **Installeer deze extra software echter niet, we zien dat als** [**bloatware**](https://www.techopedia.com/definition/4237/bloatware)**.** Het heeft verder geen toevoeging op FileZilla.
+{% endhint %}
+
 ### Aan de slag <a id="aan-de-slag"></a>
 
 De `.html`-pagina's die je hebt gemaakt zijn tot nu toe alleen zichtbaar op je eigen apparaat \(lokaal\). Om een site online \(live\) te plaatsen \(en dus zichtbaar voor iedereen\) dien je de bestanden te uploaden naar een ruimte op een [_server_](https://www.lifewire.com/servers-in-computer-networking-817380). Vaak wordt serverruimte gekocht via _hosting providers_ zoals [Transip](https://www.transip.nl/), [Hostnet](http://www.hostnet.nl/), [mijnDomein](https://www.mijndomein.nl/), [Hostgator](https://www.hostgator.com/) en vele andere. Je kunt ook je eigen computer inrichten als server. De _domeinnaam_ verwijst je door naar de betreffende ruimte op de server.
