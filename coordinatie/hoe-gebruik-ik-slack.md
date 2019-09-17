@@ -27,7 +27,7 @@ Na jouw loopbaan bij MAMDT achten we de kans klein dat je met Blackboard of Mood
 Slack maakt gebruik van zogenaamde _workspaces_. Dit is een soort hub vanwaaruit alle communicatie plaatsvind. Ieder vak heeft een specifieke workspace. Je dient je dus allereerst aan te melden voor de workspace.
 
 {% hint style="success" %}
-**In de Gitbook van het vak tref je de aanmeldlink voor de corresponderende Slack Workspace.** 
+**In de Gitbook van het vak tref je de aanmeldlink voor de corresponderende Slack Workspace.** Ieder vak heeft z'n eigen Gitbook WorkSpace.
 {% endhint %}
 
 {% hint style="warning" %}
