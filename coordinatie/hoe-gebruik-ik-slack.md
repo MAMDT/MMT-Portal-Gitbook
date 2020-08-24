@@ -1,5 +1,9 @@
 # Hoe gebruik ik Slack?
 
+{% hint style="danger" %}
+**Vanaf schooljaar 2020-2021 zullen we Slack verlaten. Alle communicatie zal via**  [**Discord**](https://discord.com/download) **servers lopen.**
+{% endhint %}
+
 ## Waarom Slack
 
 Na jouw loopbaan bij MAMDT achten we de kans klein dat je met Blackboard of Moodle zult gaan werken. We zijn er wél vrij zeker van dat je een _collaboration tool_ zult gaan gebruiken. Waarom dan nú niet al een tool gebruiken die krachtig én populair is?

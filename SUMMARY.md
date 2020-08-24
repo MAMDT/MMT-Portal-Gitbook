@@ -6,6 +6,7 @@
 
 * [Hoe gebruik ik Gitbook?](coordinatie/hoe-gebruik-ik-gitbook.md)
 * [Hoe gebruik ik Slack?](coordinatie/hoe-gebruik-ik-slack.md)
+* [Hoe gebruik ik Discord?](coordinatie/hoe-gebruik-ik-discord.md)
 * [Hoe gebruik ik de MAMDT server?](coordinatie/hoe-gebruik-ik-de-mamdt-server.md)
 * [Hoe gebruik ik GitHub?](coordinatie/hoe-gebruik-ik-github.md)
 
