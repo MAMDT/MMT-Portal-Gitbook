@@ -11,7 +11,7 @@ Discord is geweldig communicatieplatform waar docenten en studenten kunnen samen
 Het is dé manier om feedback te krijgen van je docent, documenten te delen, [_syntax-highlighted_](https://en.wikipedia.org/wiki/Syntax_highlighting) code doorsturen, mededelingen te communiceren, deelnemen aan polls, afspraken te maken en nog veel meer. 
 
 {% hint style="warning" %}
-Bijna alle communicatie rondom vakken verloopt via Discord. **Werken en communiceren met Discord is daarom verplicht.**
+Vrijwel alle communicatie rondom je vakken verloopt via Discord. **Werken en communiceren met Discord is daarom verplicht.**
 {% endhint %}
 
 ### Discord downloaden
