@@ -1,7 +1,8 @@
 # Hoe gebruik ik Slack?
 
 {% hint style="danger" %}
-**Vanaf schooljaar 2020-2021 zullen we Slack verlaten. Alle communicatie zal via**  [**Discord**](https://discord.com/download) **servers lopen.**
+**Vanaf schooljaar 2020-2021 zullen we Slack verlaten. Alle communicatie zal via**  [**Discord**](https://discord.com/download) **servers lopen.   
+Zie** [**https://mamdt.gitbook.io/portal/coordinatie/hoe-gebruik-ik-discord**](https://mamdt.gitbook.io/portal/coordinatie/hoe-gebruik-ik-discord)\*\*\*\*
 {% endhint %}
 
 ## Waarom Slack
