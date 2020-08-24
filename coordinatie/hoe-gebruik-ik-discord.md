@@ -4,5 +4,7 @@
 Work in Progress
 {% endhint %}
 
+{% embed url="https://discord.com/download" %}
+
 
 
