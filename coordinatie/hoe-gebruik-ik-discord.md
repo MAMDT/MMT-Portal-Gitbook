@@ -8,11 +8,13 @@ Work in Progress
 
 Discord is geweldig communicatieplatform waar docenten en studenten kunnen samenwerken, delen of gewoon kunnen kletsen. Discord geeft ons mogelijkheden sneller en efficienter te werken ten opzichte van klassiek e-mail. 
 
-Het is dé manier om feedback te krijgen van je docent, documenten te delen, [_syntax-highlighted_](https://en.wikipedia.org/wiki/Syntax_highlighting) code doorsturen, mededelingen te communiceren, deelnemen aan polls, afspraken te maken en nog veel meer. 
+Het is dé manier om feedback te krijgen van je docent, documenten te delen, [_syntax-highlighted_](https://en.wikipedia.org/wiki/Syntax_highlighting) code doorsturen, screen sharing, mededelingen communiceren, deelnemen aan polls, afspraken te maken en nog veel meer. 
 
 {% hint style="warning" %}
 Vrijwel alle communicatie rondom je vakken verloopt via Discord. **Werken en communiceren met Discord is daarom verplicht.**
 {% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=rnYGrq95ezA" %}
 
 ### Discord downloaden
 
@@ -20,7 +22,7 @@ Discord werkt als desktop app, webapp en mobile app. [Download Discord](https://
 
 {% embed url="https://discord.com/download" %}
 
-## Aanmelden bij een Discord server
+## Aanmelden Discord server
 
 Discord werkt met zogenaamde _Discord servers._ Dit is een soort hub vanwaaruit alle communicatie plaatsvindt. Ieder leerjaar heeft een specifieke server. 
 
