@@ -38,10 +38,10 @@ In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in di
 
 | server naam | invite link |
 | :--- | :--- |
-| CMD jaar 1 |  |
-| CMD jaar 2 |  |
-| CMD jaar 3 |  |
-| CMD jaar 4 |  |
+| CMD jaar 1 | [https://discord.gg/eDjXFzz](https://discord.gg/eDjXFzz) |
+| CMD jaar 2 | [https://discord.gg/GryKTet](https://discord.gg/GryKTet) |
+| CMD jaar 3 | [https://discord.gg/D24yyQm](https://discord.gg/D24yyQm) |
+| CMD jaar 4 | [https://discord.gg/m33HnBB](https://discord.gg/m33HnBB) |
 
 #### VisCom
 
