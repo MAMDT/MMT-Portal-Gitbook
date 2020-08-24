@@ -11,7 +11,7 @@ Discord is geweldig communicatieplatform waar docenten en studenten kunnen samen
 Discord geeft ons mogelijkheden sneller en efficienter te werken in tegenstelling tot e-mail:
 
 {% hint style="warning" %}
-Bijna alle communicatie rondom vakken verloopt via Discord. Werken en communiceren met Discord is daarom verplicht.
+Bijna alle communicatie rondom vakken verloopt via Discord. **Werken en communiceren met Discord is daarom verplicht.**
 {% endhint %}
 
 * e-mail is zó 1990;
