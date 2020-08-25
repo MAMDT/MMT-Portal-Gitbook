@@ -56,9 +56,7 @@ Onze discord servers vormen een formele online werkplek en is daarmee louter bed
 Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de server. **Het is verplicht om je voor- en achternaam als Discord-naam te gebruiken. Het is verplicht om een duidelijke foto van jezelf als avatar in te stellen.**
 {% endhint %}
 
-Via je gebruikersinstellingen kun je je gebruikersnaam en avatar wijzigen.
-
-![](../.gitbook/assets/screenshot-2020-08-25-at-10.28.27.png)
+![Via je gebruikersinstellingen kun je je gebruikersnaam en avatar wijzigen.](../.gitbook/assets/screenshot-2020-08-25-at-10.28.27.png)
 
 ## 🚗 Jezelf toevoegen aan een vak / channel
 
