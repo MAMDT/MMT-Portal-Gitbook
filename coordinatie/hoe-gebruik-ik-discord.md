@@ -8,7 +8,7 @@ Work in Progress
 
 Discord is geweldig communicatieplatform waar docenten en studenten kunnen samenwerken, delen of gewoon kunnen kletsen. Discord geeft ons mogelijkheden sneller en efficienter te werken ten opzichte van klassiek e-mail. 
 
-Het is dé manier om feedback te krijgen van je docent, documenten te delen, [_syntax-highlighted_](https://en.wikipedia.org/wiki/Syntax_highlighting) code doorsturen, screen sharing, mededelingen communiceren, deelnemen aan polls, afspraken te maken en nog veel meer. 
+Het is dé manier om feedback te krijgen van je docent, documenten te delen, [_syntax-highlighted_](https://en.wikipedia.org/wiki/Syntax_highlighting) code doorsturen, screen sharing, deelnemen aan polls en nog veel meer. 
 
 ![](../.gitbook/assets/c01c644bc9fa2a28678ae2f44969d248.svg)
 
