@@ -52,11 +52,13 @@ In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in di
 
 Onze discord servers vormen een formele online werkplek en is daarmee louter bedoeld voor communicatie rondom schoolactiviteiten. Houd rekening met de privacy van jezelf en anderen. 
 
-Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de server. 
-
 {% hint style="warning" %}
-
+Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de server. **Het is verplicht om je voor- en achternaam als Discord-naam te gebruiken. Het is verplicht om een duidelijke foto van jezelf als avatar in te stellen.**
 {% endhint %}
+
+Via je gebruikersinstellingen kun je je gebruikersnaam en avatar wijzigen.
+
+![](../.gitbook/assets/screenshot-2020-08-25-at-10.28.27.png)
 
 ## 🚗 Jezelf toevoegen aan een vak / channel
 
