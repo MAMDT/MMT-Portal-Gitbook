@@ -1,8 +1,11 @@
-# Hoe gebruik ik Discord?
+---
+description: >-
+  Alles over het gebruik van Discord op onze opleiding; een lijst met
+  invite-links voor de verschillende servers, toekennen van rollen om toegang te
+  krijgen tot  vakkanelen en andere tip
+---
 
-{% hint style="info" %}
-Work in Progress
-{% endhint %}
+# Hoe gebruik ik Discord?
 
 ## 🤷 Waarom Discord?
 
@@ -24,9 +27,9 @@ Discord werkt als desktop app, web app en mobile app. [Download Discord](https:/
 
 ## 🤘 Aanmelden Discord server
 
-Discord werkt met zogenaamde _Discord servers._ Dit is een soort hub vanwaaruit alle communicatie plaatsvindt. Ieder leerjaar heeft een specifieke server. 
+Discord werkt met zogenaamde _**Discord servers**._ Dit is een soort hub vanwaaruit alle communicatie plaatsvindt. Ieder leerjaar heeft een specifieke server. 
 
-In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in diverse _\#channels_. Gebruik onderstaande invite link om je in te schrijven.
+In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in diverse _**\#kanalen**_. Gebruik onderstaande invite link om je in te schrijven.
 
 #### CMD
 
@@ -58,19 +61,35 @@ Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de se
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-10.30.12.png)
 
-## 🚗 Jezelf toevoegen aan een vak / channel
+## 🚗 Jezelf toevoegen aan een vak / \#kanaal
 
-De server \(leerjaar\) is onderveeld in diverse _\#channels_. Een channel staat meestal voor één specifiek vak maar het kan ook een minor, groepschat of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle channels die voor jou  
+De server \(leerjaar\) is onderveeld in diverse _**\#kanalen**_ \(vakken binnen het leerjaar\). Een kanaal staat meestal voor één specifiek vak maar het kan ook een minor, groepschat of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle \#kanalen / vakken door middel van _**rollen**_.
 
-Nulla vitae elit libero, a pharetra augue. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nulla vitae elit libero, a pharetra augue.
+Ieder vak correspondeert met een specifieke rol. Om toegang te krijgen tot _\#MMT1_  dien je de rol MMT1 te hebben, om toegang te krijgen tot \#VD1 dien je de rol _VD1_ te hebben en ga zo maar door.
+
+{% hint style="info" %}
+In de toekomst zal het mogelijk zijn om jezelf een specifieke rol te geven. Zo kun je zelf beheren welke \#kanalen / vakken je wel of niet volgt. Voorlopig is die feature er nog niet en zul je door de admin docenten automatisch rollen krijgen toegekend. Mis je rollen of heb je vragen? Stuur een prive bericht naar een docent in Discord.
+{% endhint %}
+
+![](../.gitbook/assets/screenshot-2020-08-25-at-12.12.55.png)
+
+### Een vak / \#kanaal verlaten
+
+Wil je een \#kanaal verlaten omdat het groepsproject is afgelopen of omdat de periode voorbij is en je het vak niet meer volgt? Verwijder in dat geval simpelweg de corresponderende rollen bij je serverprofiel. Het is ook mogelijk om kanalen op mute te zetten oftewel te dempen. In dat geval krijg je geen kanaalmeldingen meer.
+
+{% hint style="info" %}
+Moet je onverhoopt een vak herkansen? Verlaat in dat geval het kanaal, van het vak waarvoor je de herkansing hebt, nog niet! Communicatie rondom herkansingen zal plaatsvinden in het orginele kanaal. 
+{% endhint %}
 
 ## 🔒 Een privégesprek \(DM\) starten
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.
+Wanneer je een _Direct Message_ oftwel een privégesprek wilt voeren kun je dat doen met alle leden waarmee je een server deelt. In een privégesprek kun je ook bellen of je scherm delen. Je hoeft dus niet perse iemand toe te voegen als vriend om een DM te starten. Privégesprekken worden verzameld op je Discord startpagina. 
 
-## 🔇Channels dempen  \(mute\)
+![](../.gitbook/assets/screenshot-2020-08-25-at-12.23.36.png)
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.
+## 🔇Kanalen dempen \(mute\)
 
+Je bent nu ingeschreven voor verschillende vakken in de corresponderende \#kanalen. Dit kunnen er al snel een boel zijn. Het is aan te raden om kanalen waarvoor je geen meldingen wilt ontvangen te muten. Rechtermuisknop op een of meerdere kanalen om je persoonlijke instellingen voor het kanaal te wijzigen.
 
+![](../.gitbook/assets/screenshot-2020-08-25-at-12.31.42.png)
 
