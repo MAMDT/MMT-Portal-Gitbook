@@ -18,7 +18,7 @@ Interesse om te starten met Github? **Via MAMDT kunnen wij onze studenten een gr
 
 ### Zie je een foutje in dit document?
 
-Tref je ergens onwaarheden of zie je een spelfout? Laat het ons weten via [Slack](hoe-gebruik-ik-slack.md)!
+Tref je ergens onwaarheden of zie je een spelfout? Laat het ons weten via [Slack]()!
 
 ### Legenda
 

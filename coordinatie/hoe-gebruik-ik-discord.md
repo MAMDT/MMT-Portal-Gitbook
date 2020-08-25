@@ -29,25 +29,27 @@ Discord werkt als desktop app, web app en mobile app. [Download Discord](https:/
 
 Discord werkt met zogenaamde _**Discord servers**._ Dit is een soort hub vanwaaruit alle communicatie plaatsvindt. Ieder leerjaar heeft een specifieke server. 
 
-In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in diverse _**\#kanalen**_. Gebruik onderstaande invite link om je in te schrijven.
+In de server kun je jezelf inschrijven voor vakken die zijn onderverdeeld in diverse **categorieën**. Deze vakken hebben vervolgens weer _**\#kanalen**_ waarin \(groeps\)gesprekken rondom het vak plaatsvinden.
+
+Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande invite link om je in te schrijven.
 
 #### CMD
 
-| server naam | invite link |
-| :--- | :--- |
-| CMD jaar 1 | [https://discord.gg/eDjXFzz](https://discord.gg/eDjXFzz) |
-| CMD jaar 2 | [https://discord.gg/GryKTet](https://discord.gg/GryKTet) |
-| CMD jaar 3 | [https://discord.gg/D24yyQm](https://discord.gg/D24yyQm) |
-| CMD jaar 4 | [https://discord.gg/m33HnBB](https://discord.gg/m33HnBB) |
+| icon | **server naam** | **invite link** |
+| :--- | :--- | :--- |
+| \*\*\*\*![](../.gitbook/assets/cmd1.png)  | CMD jaar 1 | [https://discord.gg/eDjXFzz](https://discord.gg/eDjXFzz) |
+| ![](../.gitbook/assets/cmd2.png)  | CMD jaar 2 | [https://discord.gg/GryKTet](https://discord.gg/GryKTet) |
+| ![](../.gitbook/assets/cmd3.png)  | CMD jaar 3 | [https://discord.gg/D24yyQm](https://discord.gg/D24yyQm) |
+| ![](../.gitbook/assets/cmd4.png)  | CMD jaar 4 | [https://discord.gg/m33HnBB](https://discord.gg/m33HnBB) |
 
 #### VisCom
 
-| server naam | invite link |
-| :--- | :--- |
-| Viscom jaar 1 | [https://discord.gg/7z8hwGX](https://discord.gg/7z8hwGX) |
-| Viscom jaar 2 | [https://discord.gg/dMReZEC](https://discord.gg/dMReZEC) |
-| Viscom jaar 3 | [https://discord.gg/AaEHhfU](https://discord.gg/AaEHhfU) |
-| Viscom jaar 4 | [https://discord.gg/DGVMaUU](https://discord.gg/DGVMaUU) |
+| icon | **server naam** | **invite link** |
+| :--- | :--- | :--- |
+|  | Viscom jaar 1 | [https://discord.gg/7z8hwGX](https://discord.gg/7z8hwGX) |
+|  | Viscom jaar 2 | [https://discord.gg/dMReZEC](https://discord.gg/dMReZEC) |
+|  | Viscom jaar 3 | [https://discord.gg/AaEHhfU](https://discord.gg/AaEHhfU) |
+|  | Viscom jaar 4 | [https://discord.gg/DGVMaUU](https://discord.gg/DGVMaUU) |
 
 ![](../.gitbook/assets/f61264d792fd2556a618c95d97b5de07.svg)
 
@@ -72,6 +74,12 @@ In de toekomst zal het mogelijk zijn om jezelf een specifieke rol te geven. Zo k
 {% endhint %}
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.12.55.png)
+
+### Diversiteit tussen kanalen
+
+Ieder vak heeft diverse kanalen voor diverse toepassingen. Zoals de naam al doet vermoeden is het kanaal \#1on1 bedoeld voor privé coachingsgesprekken tussen jou en je docent. Sommige kanalen zijn  bedoeld om in te schrijven, anderen om voice of video gesprekken te houden.
+
+![](../.gitbook/assets/screenshot-2020-08-25-at-12.41.41.png)
 
 ### Een vak / \#kanaal verlaten
 
