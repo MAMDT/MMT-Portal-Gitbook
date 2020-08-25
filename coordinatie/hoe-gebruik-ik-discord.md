@@ -4,7 +4,7 @@
 Work in Progress
 {% endhint %}
 
-## Waarom Discord?
+## 🤷 Waarom Discord?
 
 Discord is geweldig communicatieplatform waar docenten en studenten kunnen samenwerken, delen of gewoon kunnen kletsen. Discord geeft ons mogelijkheden sneller en efficienter te werken ten opzichte van klassiek e-mail. 
 
@@ -20,7 +20,7 @@ Discord werkt als desktop app, web app en mobile app. [Download Discord](https:/
 
 {% embed url="https://discord.com/download" %}
 
-## 🌎 Aanmelden Discord server
+## 🤘 Aanmelden Discord server
 
 Discord werkt met zogenaamde _Discord servers._ Dit is een soort hub vanwaaruit alle communicatie plaatsvindt. Ieder leerjaar heeft een specifieke server. 
 
