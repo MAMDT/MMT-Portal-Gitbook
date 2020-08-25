@@ -12,7 +12,7 @@ In dit artikel leer je een verbinding te leggen tussen jouw lokale bestanden en 
 
 Om verbinding te kunnen maken dien je over de ftp-gegevens te beschikken die je ontvangen hebt per mail \(afzender is reselzuyd\).
 
-{% embed url="https://vimeo.com/287886848/a48a06ba1b" %}
+{% embed url="https://vimeo.com/287886848/a48a06ba1b/" %}
 
 {% hint style="warning" %}
 Bij het installeren van FileZilla vraagt de _installer_ additieve software te mogen installeren. FileZilla noemt dit ['bundled' software](https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/). **Installeer deze extra software echter niet, we zien dat als** [**bloatware**](https://www.techopedia.com/definition/4237/bloatware)**.** Het heeft verder geen toevoeging op FileZilla.
