@@ -89,7 +89,7 @@ Wanneer je een _Direct Message_ oftwel een privégesprek wilt voeren kun je dat 
 
 ## 🔇Kanalen dempen \(mute\)
 
-Je bent nu ingeschreven voor verschillende vakken in de corresponderende \#kanalen. Dit kunnen er al snel een boel zijn. Het is aan te raden om kanalen waarvoor je geen meldingen wilt ontvangen te muten. Rechtermuisknop op een of meerdere kanalen om je persoonlijke instellingen voor het kanaal te wijzigen.
+Je bent nu ingeschreven voor verschillende vakken in de corresponderende \#kanalen. Dit kunnen er al snel een boel zijn. Het is aan te raden om kanalen waarvoor je geen meldingen wilt ontvangen te dempen. Rechtermuisknop op een of meerdere kanalen om je persoonlijke instellingen voor het kanaal te wijzigen.
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.31.42.png)
 
