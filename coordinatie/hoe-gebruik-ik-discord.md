@@ -20,7 +20,7 @@ Discord werkt als desktop app, web app en mobile app. [Download Discord](https:/
 
 {% embed url="https://discord.com/download" %}
 
-## Aanmelden Discord server
+## 🌎 Aanmelden Discord server
 
 Discord werkt met zogenaamde _Discord servers._ Dit is een soort hub vanwaaruit alle communicatie plaatsvindt. Ieder leerjaar heeft een specifieke server. 
 
@@ -46,17 +46,17 @@ In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in di
 
 ![](../.gitbook/assets/screenshot-2020-08-24-at-13.12.13.png)
 
-## Jezelf toevoegen aan een vak / channel
+## 🚗 Jezelf toevoegen aan een vak / channel
 
 De server \(leerjaar\) is onderveeld in diverse _\#channels_. Een channel staat meestal voor één specifiek vak maar het kan ook een minor, groepschat of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle channels die voor jou  
 
 Nulla vitae elit libero, a pharetra augue. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nulla vitae elit libero, a pharetra augue.
 
-## Een privégesprek \(DM\) starten
+## 🔒 Een privégesprek \(DM\) starten
 
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.
 
-## Channels dempen 🔇 \(mute\)
+## 🔇Channels dempen  \(mute\)
 
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.
 
