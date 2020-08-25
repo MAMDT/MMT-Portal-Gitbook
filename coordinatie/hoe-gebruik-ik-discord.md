@@ -67,7 +67,7 @@ Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de se
 
 De server \(leerjaar\) is onderveeld in diverse categorieën _****_\(vakken binnen het leerjaar\). Een categorie staat meestal voor één specifiek vak maar het kan ook een minor of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle vakcategorieën door middel van _**rollen**_.
 
-Als gebruiker kun je één of meer rollen hebben. Ieder vak correspondeert met een specifieke rol. Om toegang te krijgen tot _MMT1_  dien je de rol MMT1 te hebben, om toegang te krijgen tot VD1 dien je de rol _VD1_ te hebben en ga zo maar door.
+Als gebruiker kun je één of meer rollen hebben. Ieder vak correspondeert met een specifieke rol. Om toegang te krijgen tot _MMT1_  dien je de rol `MMT1` te hebben, om toegang te krijgen tot _VD1_ dien je de rol `VD1` te hebben en ga zo maar door.
 
 {% hint style="info" %}
 In de toekomst zal het mogelijk zijn om jezelf een specifieke rol te geven. Zo kun je zelf beheren welke vakcategorieën je wel of niet volgt. Voorlopig is die feature er nog niet en zul je door de admin docenten automatisch rollen krijgen toegekend. Mis je rollen of heb je vragen? Stuur een prive bericht naar een docent in Discord.
@@ -75,9 +75,11 @@ In de toekomst zal het mogelijk zijn om jezelf een specifieke rol te geven. Zo k
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.12.55.png)
 
+## 🛸 Werken in \#kanalen
+
 ### Diversiteit tussen vakcategorieën
 
-Ieder vak heeft diverse **\#kanalen** voor diverse toepassingen. Zoals de naam al doet vermoeden is het kanaal _\#1on1_ bedoeld voor privé coachingsgesprekken tussen jou en je docent. Sommige kanalen zijn  bedoeld om in te schrijven, anderen om voice of video gesprekken te houden.
+Ieder vak heeft diverse **\#kanalen** voor diverse toepassingen. Zoals de naam al doet vermoeden is het kanaal _`#1on1`_ bedoeld voor privé coachingsgesprekken tussen jou en je docent. Sommige kanalen zijn  bedoeld om in te schrijven, anderen om voice of video gesprekken te houden.
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.41.41.png)
 
@@ -88,6 +90,10 @@ Heb je een stuk code geschreven en wil je dit graag delen? In Discord kun je een
 Plaats je code tussen _backticks_. **`````** `je code` **`````**  Discord convergeert automatisch de reguliere tekst naar code. Daarnaast zou je ook de tekst in het tekstveld kunnen selecteren en vervolgens via de tekstopties naar code convergeren.
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-13.08.30.png)
+
+{% hint style="info" %}
+Op dit moment is het doorsturen van grote bestanden \(zoals een video's\) beperkt tot maximaal 8mb per upload. Wil je toch een video delen op Discord? Neem je video op met bijvoorbeeld [Loom](https://www.loom.com/) en deel de link.
+{% endhint %}
 
 ### Een vakcategorie verlaten
 
