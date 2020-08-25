@@ -1,4 +1,4 @@
-# Hoe gebruik ik de MAMDT server?
+# Hoe gebruik ik de school server?
 
 Als MAMDT-student krijg je toegang tot je eigen online "plekje". Je ontvangt daarvoor een bericht per mail na de introductieles van MMT. Mocht je dat bericht niet hebben gekregen, stuur dan even een Slack bericht naar je docent.
 
