@@ -12,13 +12,13 @@ Gitbook is een online platform voor het schrijven en hosten van documenten. We g
 
 Een [**git**](https://legacy.gitbook.com/book/willmuijrers/cmd-2-3-0-introductie/edit#) is een versie controlesysteem. Git is een systeem dat het mogelijk maakt om versies/bewerkingen \(**commits**\) te bewaren en te bekijken. Het wordt voornamelijk toegepast in grote teams waar meerdere mensen aan dezelfde code werken. Ieder teamlid werkt aan een nieuw onderdeel \(**branche**\) van het volledig project \(**repository**\). Door middel van git is het dus mogelijk bij te houden wie-wat-wanneer heeft gemaakt. Is de nieuwe code goed en gecontroleerd? Dan wordt de nieuwe branch **gepusht** naar de **master.** [**Github**](https://legacy.gitbook.com/book/willmuijrers/cmd-2-3-0-introductie/edit#) is een sociaal, online hostingsplatform voor het bijhouden van gits. Ontwikkelaars delen, vragen ondersteuning of werken samen aan code. [**Gitbook**](https://legacy.gitbook.com/book/willmuijrers/cmd-2-3-0-introductie/edit#) gebruikt de mogelijkheden van git om versies te beheren voor documenten. We gebruiken Gitbook binnen het lesmateriaal om samen documenten online te bewerken en bij te houden.
 
-{% hint style="info" %}
-Interesse om te starten met Github? **Via MAMDT kunnen wij onze studenten een gratis** _**educational pro license**_ **bieden.** Contacteer je MMT vakdocent via Slack.
-{% endhint %}
+### Aan de slag met Github?
+
+{% embed url="https://mamdt.gitbook.io/github/" %}
 
 ### Zie je een foutje in dit document?
 
-Tref je ergens onwaarheden of zie je een spelfout? Laat het ons weten via [Slack]()!
+Tref je ergens onwaarheden of zie je een spelfout? Laat het ons weten via [Discord](hoe-gebruik-ik-discord.md)!
 
 ### Legenda
 

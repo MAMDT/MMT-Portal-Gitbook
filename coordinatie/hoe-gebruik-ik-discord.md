@@ -92,7 +92,7 @@ Plaats je code tussen _backticks_. **`````** `je code` **`````**  Discord conver
 ![](../.gitbook/assets/screenshot-2020-08-25-at-13.08.30.png)
 
 {% hint style="info" %}
-Op dit moment is het doorsturen van grote bestanden \(zoals een video's\) beperkt tot maximaal 8mb per upload. Wil je toch een video delen op Discord? Neem je video op met bijvoorbeeld [Loom](https://www.loom.com/) en deel de link.
+Op dit moment is het doorsturen van grote bestanden \(zoals een video\) beperkt tot maximaal 8mb per upload. Wil je toch een video delen op Discord? Neem je video op met bijvoorbeeld [Loom](https://www.loom.com/) en deel de link.
 {% endhint %}
 
 ### Een vakcategorie verlaten
