@@ -10,6 +10,8 @@ Discord is geweldig communicatieplatform waar docenten en studenten kunnen samen
 
 Het is dé manier om feedback te krijgen van je docent, documenten te delen, [_syntax-highlighted_](https://en.wikipedia.org/wiki/Syntax_highlighting) code doorsturen, screen sharing, mededelingen communiceren, deelnemen aan polls, afspraken te maken en nog veel meer. 
 
+![](../.gitbook/assets/c01c644bc9fa2a28678ae2f44969d248.svg)
+
 {% hint style="warning" %}
 Vrijwel alle communicatie rondom je vakken verloopt via Discord. **Werken en communiceren met Discord is daarom verplicht.**
 {% endhint %}
@@ -44,7 +46,7 @@ In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in di
 | Viscom jaar 3 |  |
 | Viscom jaar 4 |  |
 
-![](../.gitbook/assets/screenshot-2020-08-24-at-13.12.13.png)
+![](../.gitbook/assets/f61264d792fd2556a618c95d97b5de07.svg)
 
 ## 🚗 Jezelf toevoegen aan een vak / channel
 
