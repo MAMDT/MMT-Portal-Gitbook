@@ -33,7 +33,7 @@ In de server kun je jezelf inschrijven voor vakken die zijn onderverdeeld in div
 
 Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande invite link om je in te schrijven.
 
-#### CMD
+### CMD
 
 | icon | **server naam** | **invite link** |
 | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande in
 | ![](../.gitbook/assets/cmd3.png)  | CMD jaar 3 | [https://discord.gg/D24yyQm](https://discord.gg/D24yyQm) |
 | ![](../.gitbook/assets/cmd4.png)  | CMD jaar 4 | [https://discord.gg/m33HnBB](https://discord.gg/m33HnBB) |
 
-#### VisCom
+### VisCom
 
 | icon | **server naam** | **invite link** |
 | :--- | :--- | :--- |
@@ -63,41 +63,41 @@ Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de se
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-10.30.12.png)
 
-## 🚗 Jezelf toevoegen aan een vak / \#kanaal
+## 🚗 Jezelf toevoegen aan een vak / categorie
 
-De server \(leerjaar\) is onderveeld in diverse _**\#kanalen**_ \(vakken binnen het leerjaar\). Een kanaal staat meestal voor één specifiek vak maar het kan ook een minor, groepschat of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle \#kanalen / vakken door middel van _**rollen**_.
+De server \(leerjaar\) is onderveeld in diverse categorieën _****_\(vakken binnen het leerjaar\). Een categorie staat meestal voor één specifiek vak maar het kan ook een minor of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle vakcategorieën door middel van _**rollen**_.
 
-Ieder vak correspondeert met een specifieke rol. Om toegang te krijgen tot _\#MMT1_  dien je de rol MMT1 te hebben, om toegang te krijgen tot \#VD1 dien je de rol _VD1_ te hebben en ga zo maar door.
+Als gebruiker kun je één of meer rollen hebben. Ieder vak correspondeert met een specifieke rol. Om toegang te krijgen tot _MMT1_  dien je de rol MMT1 te hebben, om toegang te krijgen tot VD1 dien je de rol _VD1_ te hebben en ga zo maar door.
 
 {% hint style="info" %}
-In de toekomst zal het mogelijk zijn om jezelf een specifieke rol te geven. Zo kun je zelf beheren welke \#kanalen / vakken je wel of niet volgt. Voorlopig is die feature er nog niet en zul je door de admin docenten automatisch rollen krijgen toegekend. Mis je rollen of heb je vragen? Stuur een prive bericht naar een docent in Discord.
+In de toekomst zal het mogelijk zijn om jezelf een specifieke rol te geven. Zo kun je zelf beheren welke vakcategorieën je wel of niet volgt. Voorlopig is die feature er nog niet en zul je door de admin docenten automatisch rollen krijgen toegekend. Mis je rollen of heb je vragen? Stuur een prive bericht naar een docent in Discord.
 {% endhint %}
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.12.55.png)
 
-### Diversiteit tussen kanalen
+### Diversiteit tussen vakcategorieën
 
-Ieder vak heeft diverse kanalen voor diverse toepassingen. Zoals de naam al doet vermoeden is het kanaal \#1on1 bedoeld voor privé coachingsgesprekken tussen jou en je docent. Sommige kanalen zijn  bedoeld om in te schrijven, anderen om voice of video gesprekken te houden.
+Ieder vak heeft diverse **\#kanalen** voor diverse toepassingen. Zoals de naam al doet vermoeden is het kanaal _\#1on1_ bedoeld voor privé coachingsgesprekken tussen jou en je docent. Sommige kanalen zijn  bedoeld om in te schrijven, anderen om voice of video gesprekken te houden.
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.41.41.png)
 
-### Een vak / \#kanaal verlaten
+### Een vakcategorie verlaten
 
-Wil je een \#kanaal verlaten omdat het groepsproject is afgelopen of omdat de periode voorbij is en je het vak niet meer volgt? Verwijder in dat geval simpelweg de corresponderende rollen bij je serverprofiel. Het is ook mogelijk om kanalen op mute te zetten oftewel te dempen. In dat geval krijg je geen kanaalmeldingen meer.
+Wil je een vak / categorie verlaten omdat het groepsproject is afgelopen of omdat de periode voorbij is en je het vak niet meer volgt? Verwijder in dat geval simpelweg de corresponderende rollen bij je serverprofiel. Het is ook mogelijk om vakcategorieën op mute te zetten oftewel te dempen. In dat geval krijg je geen categoriemeldingen meer.
 
 {% hint style="info" %}
-Moet je onverhoopt een vak herkansen? Verlaat in dat geval het kanaal, van het vak waarvoor je de herkansing hebt, nog niet! Communicatie rondom herkansingen zal plaatsvinden in het orginele kanaal. 
+Moet je onverhoopt een vak herkansen? Verlaat in dat geval de categorie, van het vak waarvoor je de herkansing hebt, nog niet! Communicatie rondom herkansingen zal plaatsvinden in de orginele vakcategorie. 
 {% endhint %}
 
 ## 🔒 Een privégesprek \(DM\) starten
 
-Wanneer je een _Direct Message_ oftwel een privégesprek wilt voeren kun je dat doen met alle leden waarmee je een server deelt. In een privégesprek kun je ook bellen of je scherm delen. Je hoeft dus niet perse iemand toe te voegen als vriend om een DM te starten. Privégesprekken worden verzameld op je Discord startpagina. 
+Wanneer je een _Direct Message_ oftwel een privégesprek wilt voeren kun je dat doen met alle leden waarmee je een server deelt. In een privégesprek kun je ook bellen of je scherm delen. Je hoeft dus niet perse iemand toe te voegen als _vriend_ om een DM te starten. Privégesprekken worden verzameld op je Discord startpagina. 
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.23.36.png)
 
-## 🔇Kanalen dempen \(mute\)
+## 🔇Vakcategorieën dempen \(mute\)
 
-Je bent nu ingeschreven voor verschillende vakken in de corresponderende \#kanalen. Dit kunnen er al snel een boel zijn. Het is aan te raden om kanalen waarvoor je geen meldingen wilt ontvangen te dempen. Rechtermuisknop op een of meerdere kanalen om je persoonlijke instellingen voor het kanaal te wijzigen.
+Je bent nu ingeschreven voor verschillende vakken in de corresponderende categorieën. Dit kunnen er al snel een boel zijn. Het is aan te raden om vakcategorieën waarvoor je geen meldingen wilt ontvangen te dempen. Rechtermuisknop op een of meerdere categorieën of \#kanalen om je persoonlijke meldingen te wijzigen.
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.31.42.png)
 
