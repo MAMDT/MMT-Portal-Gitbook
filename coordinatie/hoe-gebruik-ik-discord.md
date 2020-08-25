@@ -41,12 +41,22 @@ In de servers kun je jezelf inschrijven voor vakken die zijn onderverdeeld in di
 
 | server naam | invite link |
 | :--- | :--- |
-| Viscom jaar 1 |  |
-| Viscom jaar 2 |  |
-| Viscom jaar 3 |  |
-| Viscom jaar 4 |  |
+| Viscom jaar 1 | [https://discord.gg/7z8hwGX](https://discord.gg/7z8hwGX) |
+| Viscom jaar 2 | [https://discord.gg/dMReZEC](https://discord.gg/dMReZEC) |
+| Viscom jaar 3 | [https://discord.gg/AaEHhfU](https://discord.gg/AaEHhfU) |
+| Viscom jaar 4 | [https://discord.gg/DGVMaUU](https://discord.gg/DGVMaUU) |
 
 ![](../.gitbook/assets/f61264d792fd2556a618c95d97b5de07.svg)
+
+## 🙋♂ Voor we verder gaan, enkele basisregels
+
+Onze discord servers vormen een formele online werkplek en is daarmee louter bedoeld voor communicatie rondom schoolactiviteiten. Houd rekening met de privacy van jezelf en anderen. 
+
+Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de server. 
+
+{% hint style="warning" %}
+
+{% endhint %}
 
 ## 🚗 Jezelf toevoegen aan een vak / channel
 
