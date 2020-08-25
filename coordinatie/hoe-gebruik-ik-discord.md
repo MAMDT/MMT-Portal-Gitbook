@@ -81,6 +81,14 @@ Ieder vak heeft diverse **\#kanalen** voor diverse toepassingen. Zoals de naam a
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.41.41.png)
 
+### Code doorsturen
+
+Heb je een stuk code geschreven en wil je dit graag delen? In Discord kun je eenvoudig tekst veranderen naar code. 
+
+Plaats je code tussen _backticks_. **`````** `je code` **`````**  Discord convergeert automatisch de reguliere tekst naar code. Daarnaast zou je ook de tekst in het tekstveld kunnen selecteren en vervolgens via de tekstopties naar code convergeren.
+
+![](../.gitbook/assets/screenshot-2020-08-25-at-13.08.30.png)
+
 ### Een vakcategorie verlaten
 
 Wil je een vak / categorie verlaten omdat het groepsproject is afgelopen of omdat de periode voorbij is en je het vak niet meer volgt? Verwijder in dat geval simpelweg de corresponderende rollen bij je serverprofiel. Het is ook mogelijk om vakcategorieën op mute te zetten oftewel te dempen. In dat geval krijg je geen categoriemeldingen meer.
@@ -89,15 +97,15 @@ Wil je een vak / categorie verlaten omdat het groepsproject is afgelopen of omda
 Moet je onverhoopt een vak herkansen? Verlaat in dat geval de categorie, van het vak waarvoor je de herkansing hebt, nog niet! Communicatie rondom herkansingen zal plaatsvinden in de orginele vakcategorie. 
 {% endhint %}
 
+### Vakcategorieën dempen \(mute\)
+
+Je bent nu ingeschreven voor verschillende vakken in de corresponderende categorieën. Dit kunnen er al snel een boel zijn. Het is aan te raden om vakcategorieën waarvoor je geen meldingen wilt ontvangen te dempen. Rechtermuisknop op een of meerdere categorieën of \#kanalen om je persoonlijke meldingen te wijzigen.
+
+![](../.gitbook/assets/screenshot-2020-08-25-at-12.31.42.png)
+
 ## 🔒 Een privégesprek \(DM\) starten
 
 Wanneer je een _Direct Message_ oftwel een privégesprek wilt voeren kun je dat doen met alle leden waarmee je een server deelt. In een privégesprek kun je ook bellen of je scherm delen. Je hoeft dus niet perse iemand toe te voegen als _vriend_ om een DM te starten. Privégesprekken worden verzameld op je Discord startpagina. 
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.23.36.png)
-
-## 🔇Vakcategorieën dempen \(mute\)
-
-Je bent nu ingeschreven voor verschillende vakken in de corresponderende categorieën. Dit kunnen er al snel een boel zijn. Het is aan te raden om vakcategorieën waarvoor je geen meldingen wilt ontvangen te dempen. Rechtermuisknop op een of meerdere categorieën of \#kanalen om je persoonlijke meldingen te wijzigen.
-
-![](../.gitbook/assets/screenshot-2020-08-25-at-12.31.42.png)
 
