@@ -35,7 +35,7 @@ Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande in
 
 ### CMD
 
-| icon | **server naam** | **invite link** |
+|  | **server naam** | **invite link** |
 | :--- | :--- | :--- |
 | \*\*\*\*![](../.gitbook/assets/cmd1.png)  | CMD jaar 1 | [https://discord.gg/eDjXFzz](https://discord.gg/eDjXFzz) |
 | ![](../.gitbook/assets/cmd2.png)  | CMD jaar 2 | [https://discord.gg/GryKTet](https://discord.gg/GryKTet) |
@@ -44,7 +44,7 @@ Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande in
 
 ### VisCom
 
-| icon | **server naam** | **invite link** |
+|  | **server naam** | **invite link** |
 | :--- | :--- | :--- |
 | ![](../.gitbook/assets/viscom1.png)  | Viscom jaar 1 | [https://discord.gg/7z8hwGX](https://discord.gg/7z8hwGX) |
 | ![](../.gitbook/assets/viscom2.png)  | Viscom jaar 2 | [https://discord.gg/dMReZEC](https://discord.gg/dMReZEC) |
