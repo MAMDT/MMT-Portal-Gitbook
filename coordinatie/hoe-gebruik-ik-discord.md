@@ -2,7 +2,7 @@
 description: >-
   Alles over het gebruik van Discord op onze opleiding; een lijst met
   invite-links voor de verschillende servers, toekennen van rollen om toegang te
-  krijgen tot  vakkanelen en andere tip
+  krijgen tot vakkanalen en andere tips
 ---
 
 # Hoe gebruik ik Discord?
