@@ -46,10 +46,10 @@ Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande in
 
 | icon | **server naam** | **invite link** |
 | :--- | :--- | :--- |
-|  | Viscom jaar 1 | [https://discord.gg/7z8hwGX](https://discord.gg/7z8hwGX) |
-|  | Viscom jaar 2 | [https://discord.gg/dMReZEC](https://discord.gg/dMReZEC) |
-|  | Viscom jaar 3 | [https://discord.gg/AaEHhfU](https://discord.gg/AaEHhfU) |
-|  | Viscom jaar 4 | [https://discord.gg/DGVMaUU](https://discord.gg/DGVMaUU) |
+| ![](../.gitbook/assets/viscom1.png)  | Viscom jaar 1 | [https://discord.gg/7z8hwGX](https://discord.gg/7z8hwGX) |
+| ![](../.gitbook/assets/viscom2.png)  | Viscom jaar 2 | [https://discord.gg/dMReZEC](https://discord.gg/dMReZEC) |
+| ![](../.gitbook/assets/viscom3.png)  | Viscom jaar 3 | [https://discord.gg/AaEHhfU](https://discord.gg/AaEHhfU) |
+| ![](../.gitbook/assets/viscom4.png)  | Viscom jaar 4 | [https://discord.gg/DGVMaUU](https://discord.gg/DGVMaUU) |
 
 ![](../.gitbook/assets/f61264d792fd2556a618c95d97b5de07.svg)
 
