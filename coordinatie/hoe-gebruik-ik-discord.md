@@ -63,14 +63,22 @@ Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de se
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-10.30.12.png)
 
-## 🚗 Jezelf toevoegen aan een vak / categorie
+## 🚗 Werken met vakken / categorieën en \#kanalen
 
 De server \(leerjaar\) is onderveeld in diverse categorieën _****_\(vakken binnen het leerjaar\). Een categorie staat meestal voor één specifiek vak maar het kan ook een minor of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle vakcategorieën door middel van _**rollen**_.
 
 Als gebruiker kun je één of meer rollen hebben. Ieder vak correspondeert met een specifieke rol. Om toegang te krijgen tot _MMT1_  dien je de rol `MMT1` te hebben, om toegang te krijgen tot _VD1_ dien je de rol `VD1` te hebben en ga zo maar door.
 
-{% hint style="info" %}
-In de toekomst zal het mogelijk zijn om jezelf een specifieke rol te geven. Zo kun je zelf beheren welke vakcategorieën je wel of niet volgt. Voorlopig is die feature er nog niet en zul je door de admin docenten automatisch rollen krijgen toegekend. Mis je rollen of heb je vragen? Stuur een prive bericht naar een docent in Discord.
+### Jezelf toevoegen aan een vak / categorie
+
+Ben je al aangemeld op de server? In de categorie `announcements` , kanaal `#introduction` kun je jezelf toevoegen aan diverse vakcategorieën.
+
+> Je kunt jezelf inschrijven bij specifieke onderdelen van deze Discord omgeving door op de desbetreffende reactie emoji te klikken.
+
+![](../.gitbook/assets/screenshot-2020-08-26-at-09.46.48.png)
+
+{% hint style="warning" %}
+**Draag zelf zorg dat je door de juiste rollen in de juiste vakcategorieën wordt toegevoegd.** Mis je rollen of heb je vragen? Stuur een prive bericht naar een docent in Discord.
 {% endhint %}
 
 ![](../.gitbook/assets/screenshot-2020-08-25-at-12.12.55.png)
