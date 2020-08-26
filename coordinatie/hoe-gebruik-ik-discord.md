@@ -65,7 +65,7 @@ Het is belangrijk dat docenten en medestudenten weten met wie ze praten in de se
 
 ## 🚗 Werken met vakken / categorieën en \#kanalen
 
-De server \(leerjaar\) is onderveeld in diverse categorieën _****_\(vakken binnen het leerjaar\). Een categorie staat meestal voor één specifiek vak maar het kan ook een minor of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle vakcategorieën door middel van _**rollen**_.
+De server \(leerjaar\) is onderverdeeld in diverse categorieën _****_\(vakken binnen het leerjaar\). Een categorie staat meestal voor één specifiek vak maar het kan ook een minor of ander doeleinde hebben. Je kunt jezelf toevoegen aan alle vakcategorieën door middel van _**rollen**_.
 
 Als gebruiker kun je één of meer rollen hebben. Ieder vak correspondeert met een specifieke rol. Om toegang te krijgen tot _MMT1_  dien je de rol `MMT1` te hebben, om toegang te krijgen tot _VD1_ dien je de rol `VD1` te hebben en ga zo maar door.
 
