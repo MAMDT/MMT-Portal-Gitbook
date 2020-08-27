@@ -44,7 +44,7 @@ In de meeste _ftp-clients_ kun je de ftp-gegevens opslaan. Zo kun je gemakkelijk
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LBKz5kbVKsfWEBCyX1y%2F-LC8x5e2cahapETxtrWW%2F-LC97CaAx7fPOpmO2bmb%2FScreen%20Shot%202018-05-10%20at%2014.57.19.png?alt=media&token=0cf1cdcc-8dae-4bfa-82b9-c5a43bb01e82)
 
 * [ ] **Maak een nieuwe site in de** _**Site manager. Klik op 'new site'.**_
-* [ ] **Vul hier de ftp-gegevens zoals ontvangen in de e-mail.** Zodra je op '_connect_' verbindt je met de server.
+* [ ] **Vul hier de ftp-gegevens zoals ontvangen in de e-mail.** Zodra je op '_connect_' klikt, verbind je met de server.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LBKz5kbVKsfWEBCyX1y%2F-LC8x5e2cahapETxtrWW%2F-LC97sPpQOlCWo1xrujS%2FScreen%20Shot%202018-05-10%20at%2015.00.21.png?alt=media&token=6274802d-b080-494f-bc08-d5f09b60f5f4)
 
@@ -72,5 +72,7 @@ Wil je meerdere projecten op deze test-server plaatsen? Maak simpelweg een aanta
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LBKz5kbVKsfWEBCyX1y%2F-LCDGVtMUrXgy2MR2bc7%2F-LCDGh0LyjzSVHei6CLj%2FScreen%20Shot%202018-05-11%20at%2010.12.05.png?alt=media&token=dbbfe475-6a8e-4d4a-a8ac-f94d1194f81a)
 
+### Subdomein
 
+In de voorgaande voorbeelden zag je steeds **student-123456sijb.mamdt.com** staan. Het deel "student-123456sijb" noemen we een subdomein van het hoofddomein "mamdt.com". Iedere student heeft dus een uniek subdomein. Is jouw studentnummer 1712345 en je achternaam "van winshoten", dan wordt jouw subdomein "student-1712345wins". Altijd dus een samenvoeging van "student", je eigen studentnummer en de eerste 4 letters van je achternaam.
 
