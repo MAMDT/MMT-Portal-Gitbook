@@ -6,7 +6,7 @@ Als MAMDT-student krijg je toegang tot je eigen online "plekje". Je ontvangt daa
 De afzender van dat mailtje heet **reselzuyd**. Wellicht is die mail in je spambox terecht gekomen.
 {% endhint %}
 
-In dit artikel leer je een verbinding te leggen tussen jouw lokale bestanden en de omgeving die aan jou is toegekend op de MAMDT-server. We gaan daartoe werken met een [ftp-client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software); software waarmee een ftp-verbinding tot stand kan worden gebracht. FTP staat voor File Transfer Protocol; de manier dus om bestanden te verzenden naar de server. **In de voorbeelden wordt gebruikt gemaakt van FileZilla.** [**Download FileZilla hier**](https://filezilla-project.org/download.php?show_all=1)**.**
+In dit artikel leer je een verbinding te leggen tussen jouw lokale bestanden en de omgeving die aan jou is toegekend op de MAMDT-server. We gaan daartoe werken met een [ftp-client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software); software waarmee een ftp-verbinding tot stand kan worden gebracht. **In de voorbeelden wordt gebruikt gemaakt van FileZilla.** [**Download FileZilla hier**](https://filezilla-project.org/download.php?show_all=1)**.**
 
 {% embed url="https://filezilla-project.org/download.php?show\_all=1" caption="download FileZilla" %}
 
@@ -16,11 +16,13 @@ Bij het installeren van FileZilla vraagt de _installer_ additieve software te mo
 
 Om verbinding te kunnen maken met de online server dien je dus over jouw persoonlijke ftp-gegevens te beschikken die je ontvangen hebt per mail.
 
-{% embed url="https://vimeo.com/287886848/a48a06ba1b/" %}
-
 ### Aan de slag <a id="aan-de-slag"></a>
 
-De `.html`-pagina's die je hebt gemaakt zijn tot nu toe alleen zichtbaar op je eigen apparaat \(lokaal\). Om een site online \(live\) te plaatsen \(en dus zichtbaar voor iedereen\) dien je de bestanden te uploaden naar een ruimte op een [_server_](https://www.lifewire.com/servers-in-computer-networking-817380). Vaak wordt serverruimte gekocht via _hosting providers_ zoals [Transip](https://www.transip.nl/), [Hostnet](http://www.hostnet.nl/), [mijnDomein](https://www.mijndomein.nl/), [Hostgator](https://www.hostgator.com/) en vele andere. Je kunt ook je eigen computer inrichten als server. De _domeinnaam_ verwijst je door naar de betreffende ruimte op de server.
+In onderstaande video leggen we uit hoe je een lokaal HTML project kunt uploaden naar de server, zodat het voor iedereen online te zien is. Onder de video leggen we tekstueel in stappen uit hoe dit werkt.
+
+{% embed url="https://vimeo.com/287886848/a48a06ba1b/" caption="Het online plaatsen van een lokaal webproject" %}
+
+De `.html`-pagina's die je hebt gemaakt zijn tot nu toe alleen zichtbaar op je eigen apparaat \(lokaal\). Om een site online \(live\) te plaatsen \(en dus zichtbaar voor iedereen\) dien je de bestanden te uploaden naar een ruimte op een [_server_](https://www.lifewire.com/servers-in-computer-networking-817380). Vaak wordt serverruimte gekocht via _hosting providers_ zoals [Transip](https://www.transip.nl/), [Hostnet](http://www.hostnet.nl/), [mijnDomein](https://www.mijndomein.nl/), [Hostgator](https://www.hostgator.com/) en vele andere. Je kunt ook je eigen computer inrichten als server. De _domeinnaam_ verwijst je door naar de juiste locatie op de server.
 
 Je kunt op allerlei manieren verbindingen maken met een server. Met reguliere webservers kun je doorgaans verbinden door middel van [FTP](https://www.digitaltrends.com/computing/what-is-ftp-and-how-do-i-use-it/) \(_File Transfer Protocol_\). Met de unieke ftp-gegevens kun je een verbinding maken met je unieke ruimte op de server. Zo kun je de bestanden op de server bekijken, downloaden of andere bestanden uploaden. Ftp-gegevens bestaan doorgaans uit 3 onderdelen:
 
@@ -30,7 +32,7 @@ Je kunt op allerlei manieren verbindingen maken met een server. Met reguliere we
 
 Het kan zijn dat er additionele informatie nodig is voor het tot stand komen van de verbinding. Soms dien je aan te geven dat er een specifieke _poort_ of _encryptie_ moet worden gebruikt. Dit wordt meestal bij het ontvangen van de ftp-gegevens aangegeven. Om verbinding te kunnen maken via ftp gebruiken we een _ftp-client_. Software die de verbinding tot stand brengt en de bestanden weergeeft.
 
-* [ ] \*\*\*\*[**Download FileZilla**](https://filezilla-project.org/)\*\*\*\*
+* [ ] \*\*\*\*[**Download FileZilla**](https://filezilla-project.org/download.php?show_all=1)\*\*\*\*
 * [ ] In dit voorbeeld maken we een ftp-verbinding met de server van MAMDT. **Pak de ftp-gegevens erbij die je hebt ontvangen in je mail**
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LBKz5kbVKsfWEBCyX1y%2F-LC8x5e2cahapETxtrWW%2F-LC96A0heyslS_naHy4d%2FScreen%20Shot%202018-05-10%20at%2014.52.38.png?alt=media&token=5e768079-0649-493e-9684-0a3df570fca3)
