@@ -1,22 +1,22 @@
 # Hoe gebruik ik de school server?
 
-Als MAMDT-student krijg je toegang tot je eigen online "plekje". Je ontvangt daarvoor een bericht per mail na de introductieles van MMT. Mocht je dat bericht niet hebben gekregen, stuur dan even een Slack bericht naar je docent.
+Als MAMDT-student krijg je toegang tot je eigen online "plekje". Je ontvangt daarover een bericht per mail bij aanvang van je studie of semester. Mocht je dat bericht niet hebben gekregen, stuur dan even een Discord bericht naar Vincent Sijben of een mail naar [vincent.sijben@zuyd.nl](mailto:vincent.sijben@zuyd.nl). 
 
-{% hint style="danger" %}
-Niet alle studenten hebben reeds een account op de MAMDT server. Wil je graag toegevoegd worden? Stuur een mailtje naar [vincent.sijben@zuyd.nl](mailto:vincent.sijben@zuyd.nl). Vergeet niet je studentnummer te vermelden.
+{% hint style="warning" %}
+De afzender van dat mailtje heet **reselzuyd**. Wellicht is die mail in je spambox terecht gekomen.
 {% endhint %}
 
-In dit artikel leer je een verbinding te leggen tussen jouw lokale bestanden en de omgeving die aan jou is toegekend op de MAMDT-server. We gaan daartoe werken met een [ftp-client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software); software waarmee een ftp-verbinding tot stand kan worden gebracht. **In de voorbeelden wordt gebruikt gemaakt van FileZilla.** [**Download FileZilla hier**](https://filezilla-project.org/download.php?show_all=1)**.**
+In dit artikel leer je een verbinding te leggen tussen jouw lokale bestanden en de omgeving die aan jou is toegekend op de MAMDT-server. We gaan daartoe werken met een [ftp-client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software); software waarmee een ftp-verbinding tot stand kan worden gebracht. FTP staat voor File Transfer Protocol; de manier dus om bestanden te verzenden naar de server. **In de voorbeelden wordt gebruikt gemaakt van FileZilla.** [**Download FileZilla hier**](https://filezilla-project.org/download.php?show_all=1)**.**
 
 {% embed url="https://filezilla-project.org/download.php?show\_all=1" caption="download FileZilla" %}
-
-Om verbinding te kunnen maken dien je over de ftp-gegevens te beschikken die je ontvangen hebt per mail \(afzender is reselzuyd\).
-
-{% embed url="https://vimeo.com/287886848/a48a06ba1b/" %}
 
 {% hint style="warning" %}
 Bij het installeren van FileZilla vraagt de _installer_ additieve software te mogen installeren. FileZilla noemt dit ['bundled' software](https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/). **Installeer deze extra software echter niet, we zien dat als** [**bloatware**](https://www.techopedia.com/definition/4237/bloatware)**.** Het heeft verder geen toevoeging op FileZilla.
 {% endhint %}
+
+Om verbinding te kunnen maken met de online server dien je dus over jouw persoonlijke ftp-gegevens te beschikken die je ontvangen hebt per mail.
+
+{% embed url="https://vimeo.com/287886848/a48a06ba1b/" %}
 
 ### Aan de slag <a id="aan-de-slag"></a>
 
