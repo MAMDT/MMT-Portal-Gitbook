@@ -37,19 +37,19 @@ Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande in
 
 |  | **server naam** | **invite link** |
 | :--- | :--- | :--- |
-| \*\*\*\*![](../.gitbook/assets/cmd1.png)  | CMD jaar 1 | [https://discord.gg/eDjXFzz](https://discord.gg/eDjXFzz) |
-| ![](../.gitbook/assets/cmd2.png)  | CMD jaar 2 | [https://discord.gg/GryKTet](https://discord.gg/GryKTet) |
-| ![](../.gitbook/assets/cmd3.png)  | CMD jaar 3 | [https://discord.gg/D24yyQm](https://discord.gg/D24yyQm) |
-| ![](../.gitbook/assets/cmd4.png)  | CMD jaar 4 | [https://discord.gg/m33HnBB](https://discord.gg/m33HnBB) |
+| \*\*\*\*![](../.gitbook/assets/cmd1.png)  | CMD jaar 1 | [https://discord.gg/Zn74cgj](https://discord.gg/Zn74cgj) |
+| ![](../.gitbook/assets/cmd2.png)  | CMD jaar 2 | [https://discord.gg/AKSwS5a](https://discord.gg/AKSwS5a) |
+| ![](../.gitbook/assets/cmd3.png)  | CMD jaar 3 | [https://discord.gg/XwdbJHv](https://discord.gg/XwdbJHv) |
+| ![](../.gitbook/assets/cmd4.png)  | CMD jaar 4 | [https://discord.gg/VSGj9DK](https://discord.gg/VSGj9DK) |
 
 ### VisCom
 
 |  | **server naam** | **invite link** |
 | :--- | :--- | :--- |
-| ![](../.gitbook/assets/viscom1.png)  | Viscom jaar 1 | [https://discord.gg/7z8hwGX](https://discord.gg/7z8hwGX) |
-| ![](../.gitbook/assets/viscom2.png)  | Viscom jaar 2 | [https://discord.gg/dMReZEC](https://discord.gg/dMReZEC) |
-| ![](../.gitbook/assets/viscom3.png)  | Viscom jaar 3 | [https://discord.gg/AaEHhfU](https://discord.gg/AaEHhfU) |
-| ![](../.gitbook/assets/viscom4.png)  | Viscom jaar 4 | [https://discord.gg/DGVMaUU](https://discord.gg/DGVMaUU) |
+| ![](../.gitbook/assets/viscom1.png)  | Viscom jaar 1 | [https://discord.gg/AHRgbJH](https://discord.gg/AHRgbJH) |
+| ![](../.gitbook/assets/viscom2.png)  | Viscom jaar 2 | [https://discord.gg/SHtzdhr](https://discord.gg/SHtzdhr) |
+| ![](../.gitbook/assets/viscom3.png)  | Viscom jaar 3 | [https://discord.gg/huyqMU2](https://discord.gg/huyqMU2) |
+| ![](../.gitbook/assets/viscom4.png)  | Viscom jaar 4 | [https://discord.gg/STkDbeq](https://discord.gg/STkDbeq) |
 
 ![](../.gitbook/assets/f61264d792fd2556a618c95d97b5de07.svg)
 
