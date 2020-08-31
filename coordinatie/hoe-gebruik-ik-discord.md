@@ -33,6 +33,8 @@ In de server kun je jezelf inschrijven voor vakken die zijn onderverdeeld in div
 
 Allereerst dien je je aan te melden op de juiste server. Gebruik onderstaande invite link om je in te schrijven.
 
+Bij sommige servers zie je uiterst bovenaan een \#introduction kanaal. Daar kun je eventueel jezelf indelen bij specifieke categorieën door op de reactie emoji's te klikken.
+
 ### CMD
 
 |  | **server naam** | **invite link** |
