@@ -35,7 +35,6 @@
 | Blok | Naam | Link |
 | :---: | :--- | :--- |
 | 3.3 | Datavisualisatie | [https://mamdt.gitbook.io/3-3-dataviz/](https://mamdt.gitbook.io/3-3-dataviz/) |
-|  |  |  |
 
 ## Algemeen
 
